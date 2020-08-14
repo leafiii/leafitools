@@ -3,7 +3,7 @@
 LeafiTools is a discord moderaton bot.
 
 [Commands](https://github.com/leafiii/leafitools/wiki)
-
+ 
 ## Installation
 
 Use NodeJS [Download](https://nodejs.org) to install.
