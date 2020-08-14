@@ -1,0 +1,19 @@
+{
+  "name": "uwu-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "uwu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leafiii/linuxtransfer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leafiii/linuxtransfer/issues"
+  },
+  "homepage": "https://github.com/leafiii/linuxtransfer#readme"
+}
