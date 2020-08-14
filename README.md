@@ -1,4 +1,4 @@
-# LeafiTools
+# LeafiTools all coded on Linux device.
 
 LeafiTools is a discord moderaton bot.
 
